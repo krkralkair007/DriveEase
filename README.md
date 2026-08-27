@@ -1,6 +1,9 @@
+
+
+
 # ☁️ DriveEase
 
-(https://github.com/krkralkair007/DriveEase/blob/2e8b87633401d105511e23e69f37b014e2ae9629/Drive.png)
+![DriveEase Preview](https://github.com/krkralkair007/DriveEase/blob/2e8b87633401d105511e23e69f37b014e2ae9629/Drive.png)
 
 A full-stack file management platform designed to provide secure file storage, organization, sharing, and user authentication through a clean and intuitive interface.
 
@@ -49,9 +52,11 @@ The project helped develop experience with authentication, API integration, data
 
 ## 📸 Project Preview
 
-A visual preview of the application will be added here.
+The application provides a clean and intuitive interface for managing files, folders, and user content.
 
----
+
+
+
 
 ## 🔐 Security
 
@@ -64,7 +69,3 @@ DriveEase uses JWT-based authentication to protect user accounts and provide con
 **Alkhair Makeen Ahmed**
 
 Full-Stack Developer focused on building scalable web applications with modern technologies, clean UI, secure APIs, and real-world functionality.
-
----
-
-⭐ Feel free to explore the project and its source code.
