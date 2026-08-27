@@ -1,7 +1,7 @@
 
 
 
-# ☁️ DriveEase
+#  DriveEase
 
 ![DriveEase Preview](https://github.com/krkralkair007/DriveEase/blob/2e8b87633401d105511e23e69f37b014e2ae9629/Drive.png)
 
