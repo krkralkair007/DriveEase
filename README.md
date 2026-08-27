@@ -1,5 +1,7 @@
 # ☁️ DriveEase
 
+(https://github.com/krkralkair007/DriveEase/blob/2e8b87633401d105511e23e69f37b014e2ae9629/Drive.png)
+
 A full-stack file management platform designed to provide secure file storage, organization, sharing, and user authentication through a clean and intuitive interface.
 
 ---
